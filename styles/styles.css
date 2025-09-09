@@ -89,7 +89,7 @@ a{
 }
 
 .seccion1{
-  background-image: url(../assets/Fondo.png);
+  background-image: url(proyecto-BluEasy/activos/Fondo.png);
   background-size: cover;
   background-position: center;
   min-height: 70vh;
