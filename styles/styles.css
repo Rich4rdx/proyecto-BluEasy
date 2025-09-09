@@ -89,7 +89,7 @@ a{
 }
 
 .seccion1{
-  background-image: url(../assets/Fondo.png);
+  background-image: url(../assets/bg_whoIs.png);
   background-size: cover;
   background-position: center;
   min-height: 70vh;
@@ -293,6 +293,9 @@ a{
   color: white;
   padding: 40px 10%;
 }
+
+
+
 
 .seccion6 p{
   font-size: 16px;
