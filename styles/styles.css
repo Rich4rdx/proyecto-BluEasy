@@ -89,7 +89,7 @@ a{
 }
 
 .seccion1{
-  background-image: url(../assets/Fondo.png);
+  background-image: url(/assets/Fondo.png);
   background-size: cover;
   background-position: center;
   min-height: 70vh;
@@ -285,7 +285,7 @@ a{
 .seccion6{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  background-image: url(../assets/bg_whoIs.png);
+  background-image: url(/assets/bg_whoIs.png);
   background-size: cover;
   background-position: center;
   align-items: start;
@@ -371,7 +371,7 @@ a{
 
 
 .seccion8{
-  background-image: url(../assets/bg_contact.png);
+  background-image: url(/assets/bg_contact.png);
   background-size: cover;
   background-position: center;
   padding: 48px 10%;
